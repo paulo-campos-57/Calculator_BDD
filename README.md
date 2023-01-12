@@ -1,2 +1,4 @@
 # Calculator_BDD
-Calculator made in python with BDD methodology
+Calculator developed in Python with BDD methodology
+
+Calculadora desenvolvida em Python com metodologia BDD
