@@ -1,5 +1,5 @@
 # Calculator_BDD
-##
+
 Calculator developed in Python with BDD methodology.
 To run this project you'll need the Behave library.
 ##
